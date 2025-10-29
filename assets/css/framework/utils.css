@@ -20,6 +20,25 @@ body{
     justify-content: center;
 }
 
+.jcc-around{
+    justify-content: space-around;
+}
+
+.jcc-between{
+    justify-content: space-between;
+}
+.jcc-evenly{
+    justify-content: space-evenly;
+}
+
+.aic-end{
+    align-items: flex-end;
+}
+
+.aic-start{
+    align-items: flex-start;
+}
+
 .aic{
     align-items: center;
 }
